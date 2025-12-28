@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects to learn more about Cloud<br>🤝 I’m looking for help with Cloud Cybersecurity<br>🌱 I’m currently studying to obtain my first Certificate (Microsoft SC-900)<br>💬 Ask me about anything...I won't know probably hahaha<br>⚡ Fun fact> I'm also a musician and standup comedian
+🔭 I’m currently studying CyberSecurity<br>🌱 I’m working on to obtain my first Certificate (PJPT)<br>💬 Ask me about anything<br>⚡ Fun fact> I'm also a musician and standup comedian
 
 
 # 💻 Tech Stack:
